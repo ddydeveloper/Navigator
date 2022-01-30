@@ -1,0 +1,25 @@
+{
+  "Commands": [{
+    "Name": "work",
+    "Short": "w",
+    "Urls": [
+      "pull-requests.com",
+      "sprint-board.com",
+      "dashboard.com"
+    ]
+  }, {
+    "Name": "troubleshooting",
+    "Short": "t",
+    "Urls": [
+      "failures.com",
+      "exception.com"
+    ]
+  }, {
+    "Name": "test",
+    "Short": "test",
+    "Urls": [
+      "linkedin.com",
+      "google.com"
+    ]
+  }]
+}
